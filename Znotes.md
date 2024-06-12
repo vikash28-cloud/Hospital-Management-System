@@ -1,4 +1,4 @@
-## Project Timeline
+# Project Timeline
 
 ## Time stamps
 * 00:14:00 : installing Dependencies
