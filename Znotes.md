@@ -1,13 +1,12 @@
 ## Project Timeline
 
-$ Time stamps
+## Time stamps
+* 00:14:00 : installing Dependencies
 
 
 
-
-
-$ Learnings
-1. cors are used to connect frontend with backend
+## Learnings
+* cors are used to connect frontend with backend
 
 
 ## Dependencies
