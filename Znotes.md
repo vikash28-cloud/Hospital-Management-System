@@ -1,12 +1,11 @@
 ## Project Timeline
 
-$ Time stamps
+## Time stamps
 
 
 
 
-
-$ Learnings
+## Learnings
 1. cors are used to connect frontend with backend
 
 
