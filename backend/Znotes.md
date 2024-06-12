@@ -2,7 +2,7 @@
 
 ## Time stamps
 * 00:14:00 : installing Dependencies
-
+* 00:25:31 : setting up config.env
 
 
 ## Learnings
