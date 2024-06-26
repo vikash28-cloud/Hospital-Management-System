@@ -3,10 +3,15 @@
 ## Time stamps
 * 00:14:00 : installing Dependencies
 * 00:25:31 : setting up config.env
-
+* 00:28:50 : adding middlewares 
 
 ## Learnings
 * cors are used to connect frontend with backend
+* cookie parser is used to get cookies
+
+* express.json() is used to parsing json data into a string
+
+* express.urlEncoded extended true: 
 
 
 ## Dependencies
